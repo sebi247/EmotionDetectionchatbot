@@ -1,0 +1,186 @@
+{
+  "Intents": [
+    {
+      "tag": "goodbyes",
+      "Patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Farewell",
+        "Talk to you later",
+        "Catch you later",
+        "Good night"
+      ],
+      "responses": [
+        "Goodbye! If you need anything else, just let me know.",
+        "Bye! Have a great day!",
+        "See you later! Don't hesitate to reach out if you need help.",
+        "Farewell! I'm here if you need assistance in the future.",
+        "Talk to you later! If you have any questions, feel free to ask.",
+        "Catch you later! Remember, I'm here to help.",
+        "Good night! If you need anything else, don't hesitate to ask."
+      ]
+    },
+    {
+      "tag": "help",
+      "Patterns": [ "I need help" ],
+      "responses": [ "I am sorry to hear you find yourself in this tough situation. In moments like this is best to seek professional help" ]
+    },
+    {
+      "tag": "howareyou",
+      "Patterns": [ "how are you" ],
+      "responses": [ "As an AI language model, I do not have emotions or feelings, however If I were to have these, I am doing well, thank you. Yourself?" ]
+    },
+    {
+      "tag": "name",
+      "Patterns": [ "what's your name" ],
+      "responses": [ "I don't have an assigned name, however my developer thinks I sound like a Clooney. You may call me Clooney." ]
+    },
+    {
+      "tag": "howareyouanswer",
+      "Patterns": [ "I'm fine", "I'm good", "I'm well" ],
+      "responses": [ "That's great to hear!" ]
+    },
+    {
+      "tag": "askwhatshould",
+      "Patterns": [ "what should I ask" ],
+      "responses": [ "You can message me anything, preferably a sentence that reflects one of 6 emotions(anger,disgust,fear,sadness,surprise,joy)." ]
+    },
+    {
+      "tag": "Compliments",
+      "Patterns": [
+        "You're doing a great job",
+        "I appreciate your help"
+      ],
+      "responses": [
+        "Thank you for the kind words! I'm here to help you to the best of my abilities.",
+        "I appreciate your feedback! Let me know if there's anything else I can help you with."
+      ]
+    },
+    {
+      "tag": "CuriosityAboutAI",
+      "Patterns": [
+        "How were you created",
+        "What programming languages are used to build chatbots"
+      ],
+      "responses": [
+        "I was created using advanced AI techniques and natural language processing. Chatbots can be built using various programming languages, such as Python, Java, and JavaScript.",
+        "I'm the result of extensive research in artificial intelligence and natural language processing. I was programmed in Python"
+      ]
+    },
+    {
+      "tag": "HobbiesAndInterests",
+      "Patterns": [
+        "What are some good hobbies",
+        "What are some hobbies",
+        "can you give me example of some hobbies",
+        "What activities can help me relax"
+      ],
+      "responses": [
+        "Some great hobbies include yoga, meditation, painting, gardening, or playing a musical instrument. Engaging in activities you enjoy can help manage your emotions.",
+        "Activities like reading, taking a walk in nature, or practicing mindfulness can help you relax and regulate your emotions."
+      ]
+    },
+    {
+      "tag": "EmotionDetectionExplanation",
+      "Patterns": [ "emotion detection", "how does this work", "how do you detect emotions" ],
+      "responses": [ "I use a trained model to analyze the text you provide and determine the underlying emotion.", "My emotion detection is based on analyzing the words and phrases you use to identify the most likely emotion." ]
+    },
+    {
+      "tag": "AboutTheChatbot",
+      "Patterns": [ "about you", "who are you", "what can you do" ],
+      "responses": [ "I'm an emotion-detecting chatbot designed to identify the emotion in your messages and provide appropriate responses.", "I am a chatbot trained in emotion detection. I analyze your messages to determine the emotion and engage in a conversation based on that emotion." ]
+    },
+    {
+      "tag": "Instructions/Usage:",
+      "Patterns": [ "how to use", "instructions", "usage", "how do I" ],
+      "responses": [ "To use me, simply type your message and I'll identify the emotion in your text. Based on the detected emotion, I'll respond accordingly.", "Just send me a message and I'll analyze it to determine the emotion. I'll then engage in a conversation based on the detected emotion." ]
+    },
+    {
+      "tag": "EmotionRegulationTips",
+      "Patterns": [ "how to handle emotions", "emotion management", "coping strategies", "emotion regulation" ],
+      "responses": [ "Managing emotions involves recognizing your feelings, accepting them, and finding healthy ways to express and cope with them.", "Some emotion regulation strategies include deep breathing, mindfulness, physical exercise, journaling, and talking to a trusted friend or therapist." ]
+    },
+    {
+      "tag": "EQ",
+      "Patterns": [ "emotional intelligence", "what is EQ", "importance of emotional intelligence" ],
+      "responses": [ "Emotional intelligence, or EQ, is the ability to recognize, understand, and manage our own emotions, as well as recognize, understand, and influence the emotions of others.", "High emotional intelligence can improve relationships, decision-making, stress management, and overall mental well-being." ]
+    },
+    {
+      "tag": "FunFacts",
+      "Patterns": [ "emotion facts", "fun facts", "interesting facts about emotions", "emotion trivia" ],
+      "responses": [ "Did you know that there are more than 10,000 facial expressions humans can make to convey emotions?", "Research has shown that emotions are contagious; you can 'catch' someone else's feelings through social interactions.", "Laughter can help relieve stress and boost mood by releasing endorphins, the body's 'feel-good' chemicals." ]
+    },
+    {
+      "tag": "Quotes",
+      "Patterns": [ "emotion quotes", "quotes", "inspiring quotes", "famous quotes" ],
+      "responses": [ "'The only way to change someone's mind is to connect with them from the heart.' - Rasheed Ogunlaru", "'Your emotions are the slaves to your thoughts, and you are the slave to your emotions.' - Elizabeth Gilbert", "'Feelings are just visitors, let them come and go.' - Mooji" ]
+    },
+    {
+      "tag": "PositiveAffirmations",
+      "Patterns": [ "positive affirmations", "motivation", "encouragement", "inspiration" ],
+      "responses": [ "You are strong and resilient.", "Believe in yourself and your abilities.", "You have the power to overcome any challenge.", "Focus on the positive aspects of your life and be grateful for what you have." ]
+    },
+    {
+      "tag": "greetings",
+      "Patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Greetings",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I do for you?",
+        "Hey! If you have any questions, feel free to ask.",
+        "Greetings! Let me know if you need any assistance.",
+        "Good morning! How can I make your day better?",
+        "Good afternoon! If you need help with anything, just let me know.",
+        "Good evening! If you have any questions, don't hesitate to ask."
+      ]
+    },
+    {
+      "tag": "Gratitude",
+      "Patterns": [
+        "Thank you",
+        "Thanks",
+        "I appreciate it"
+      ],
+      "responses": [
+        "You're welcome! If you have any more questions or need assistance, feel free to ask.",
+        "I'm glad I could help! If you need any further assistance, don't hesitate to ask."
+      ]
+    },
+    {
+      "tag": "Age",
+      "Patterns": [
+        "When were you created",
+        "What's your age",
+        "what's your age",
+        "whats your age"  
+      ],
+      "responses": [
+        "I was created by Sebastian in 2023 and have been continually evolving since my initial development. If you have any questions, feel free to ask.",
+        "As an AI, I don't have a specific age, but my development has been ongoing since 2023."
+      ]
+    },
+    {
+      "tag": "Jokes",
+      "Patterns": [
+        "Tell me a joke",
+        "Do you know any jokes?",
+        "Make me laugh",
+        "Tell me another joke",
+        "Tell me joke"
+      ],
+      "responses": [
+        "Why did the computer go to art school? Because it wanted to learn how to draw a better byte!",
+        "What do you call a computer superhero? A screen saver!",
+        "Why do robots love to visit the beach? Because they enjoy surfing the net!"
+      ]
+    }
+  ]
+}

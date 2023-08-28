@@ -1,0 +1,75 @@
+{
+  "Intents": [
+    {
+      "tag": "anger",
+      "responses": [
+        "I understand that you're upset. It's okay to express your feelings. What's bothering you?",
+        "It seems like you're really angry. I'm here to help if you'd like to talk about it.",
+        "I can see that you're frustrated. Let's discuss what's causing this and find a solution.",
+        "It's important to acknowledge your anger. Please feel free to share your thoughts.",
+        "Take a deep breath and let's try to work through this together. What's making you angry?",
+        "I'm here to listen. Tell me what's causing your anger, and we can try to find a solution."
+      ]
+    },
+    {
+      "tag": "sadness",
+      "responses": [
+        "I'm sorry to hear that you're feeling down. If you'd like to talk about it, I'm here to listen.",
+        "It's okay to feel sad sometimes. I'm here to help if you need anything.",
+        "I'm here for you. If you want to share what's causing your sadness, I'm all ears.",
+        "It's tough to feel sad, and I appreciate you sharing your feelings. Let me know how I can help.",
+        "I understand that you're going through a tough time. Remember, it's okay to ask for help.",
+        "It's completely normal to feel sad. Don't hesitate to reach out if you need someone to talk to."
+      ]
+    },
+    {
+      "tag": "fear",
+      "responses": [
+        "It's normal to feel scared sometimes. If you want to talk about it, I'm here to help.",
+        "I understand that you're feeling afraid. Let's talk through it and see if we can find a solution.",
+        "Fear can be challenging, but you're not alone. I'm here to support you.",
+        "I'm here for you. If you want to share your fears, I'll listen and try to help.",
+        "Facing our fears is part of life. Let's discuss what's troubling you, and we'll work through it together.",
+        "It's okay to be scared. Just remember that you're not alone, and I'm here to help."
+      ]
+    },
+    {
+      "tag": "disgust",
+      "responses": [
+        "I understand that you're feeling disgusted. It's okay to express your feelings.",
+        "I can see that something has caused you discomfort. If you'd like to discuss it, I'm here to listen.",
+        "It's important to acknowledge your feelings of disgust. Let me know if you want to talk about it.",
+        "I'm here to help. If you want to share what's causing your disgust, feel free to do so.",
+        "Discomfort is a natural reaction. If you'd like to discuss the situation further, I'm here to listen.",
+        "I can understand your feelings. If you need someone to talk to, don't hesitate to reach out."
+      ]
+    },
+    {
+      "tag": "joy",
+      "responses": [
+        "I'm glad to see you're feeling joyful! Embrace the happiness and enjoy the moment.",
+        "That's wonderful to hear! Happiness is a great feeling. How can I assist you further?",
+        "I'm happy that you're feeling good! Let me know if there's anything I can help you with.",
+        "It's great to see you in a good mood. If you have any questions or need assistance, just let me know.",
+        "Your joy is contagious! Keep enjoying the positive vibes, and don't hesitate to reach out if you need anything.",
+        "It's always great to hear that someone is happy. If there's anything else I can help you with, please let me know."
+      ]
+    },
+    {
+      "tag": "surprise",
+      "responses": [
+        "It sounds like you're experiencing something unexpected. If you'd like to talk about it, I'm here to help.",
+        "Surprises can be both exciting and overwhelming. Let me know if you need any assistance.",
+        "I can see that you're surprised. If you'd like to discuss it further, I'm here to listen.",
+        "Life is full of surprises! If you need any help or want to talk, just let me know.",
+        "Unexpected events can be thrilling or challenging. If you'd like to share your thoughts, I'm all ears.",
+        "Surprises can certainly catch us off guard. Feel free to discuss your experience with me."
+      ]
+    }
+    
+  ]
+}
+
+
+
+
